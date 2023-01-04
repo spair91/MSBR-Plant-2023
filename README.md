@@ -1,6 +1,8 @@
-# 2022_MBSE_Sim_MSR_Plant_Paper
-Models and Simulation Tools related to the 2022 MBSE and Simulation for MSR Plant Paper:
+# 2023_MBSE_Sim_MSR_Plant_Paper
+Models and Simulation Tools related to the 2023 MBSE and Simulation for MSR Plant Paper:
 
-Stephen Pair and Michael Jones. 2022. Model-based systems engineering and simulation of a molten salt reactor power plant for requirements analysis. In 14th System Analysis and Modeling Conference (SAM '22), October 24-25, 2022, Montreal, Quebec, Canada. ACM, New York, NY, USA, 10 pages. 
+S P and M J. 2023. Model-Based Systems Engineering and Simulation of a Molten Salt Reactor Power Plant for Requirements Analysis. In Conference Name, Month Days, 2023, City, State/Province, Country. Conference Organization, Organization City, Organization State/Province, Organization Country, ## pages. 
 
 https://doi.org/10.1145/#######.#######
+
+(Reference will be updated upon publication)
